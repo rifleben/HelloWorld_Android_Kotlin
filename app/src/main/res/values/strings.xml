@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="ben_intro">Hello my name is Ben, I have been programming in Python, but want to explore Kotlin!</string>
+    <string name="say_hello">SAY HELLO!</string>
+</resources>
